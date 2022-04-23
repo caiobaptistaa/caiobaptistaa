@@ -11,6 +11,6 @@
 
 - 🧑‍💻 Tenho experiência em linguagens de programação como Python, R, Excel, Stata e estou aprendendo SQL.
 
-- 👯 Estou buscando oportunidade de emprego na área de Data Science com intuito de colaborar com modelagem (Exploratory Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Optimization, Pipelines) e aperfeiçoar meus conhecimentos em implementação de modelos (FastAPI, Flask, PaaS, IaaS, Cloud, Docker, CI/CD) e testagem e monitoramento da implementação de modelos de Machine Learning.
+- 👔 Estou buscando oportunidade de emprego na área de Data Science com intuito de colaborar com modelagem (Exploratory Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Optimization, Pipelines) e aperfeiçoar meus conhecimentos em implementação de modelos (FastAPI, Flask, PaaS, IaaS, Cloud, Docker, CI/CD) e testagem e monitoramento da implementação de modelos de machine learning.
 
 - 💬 Me pergunte sobre Estatística, Econometria, Machine Learning e Data Science.
