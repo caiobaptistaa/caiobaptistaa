@@ -1,4 +1,4 @@
-### Olá, eu sou o Caio Baptista.
+### Hi there! I am Caio Baptista.
 
 
 - 🎓 I am studying the third year of my PhD in Applied Economics at UFJF/PUC-Rio. My thesis seeks to develop statistical, microeconometric and machine learning models that model climate risks in credit risk analysis models. I am currently studying machine learning and deep learning and developing my doctoral thesis at the Department of Economics at the Pontifical Catholic University of Rio de Janeiro, a center of excellence in Brazil (CAPES 7 concept).
