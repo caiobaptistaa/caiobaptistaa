@@ -11,6 +11,6 @@
 
 - 🧑‍💻 I have experience in programming languages like Python, R, Excel, Stata and I'm learning SQL.
 
-- 👔 I seek to pursue a career in Data Science in order to collaborate with modeling (Exploratory Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Optimization, Pipelines) and improve my knowledge in model implementation (FastAPI, Flask, PaaS, IaaS, Cloud, Docker, CI/CD) and testing and monitoring the implementation of machine learning models.
+- 👔 I seek to pursue a career in Data Science in order to collaborate with modeling (Exploratory Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Optimization, Pipelines) and improve my knowledge in model deployment (FastAPI, Flask, PaaS, IaaS, Cloud, Docker, CI/CD).
 
 - 💬 Ask me about Statistics, Econometrics, Machine Learning and Data Science.
