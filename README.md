@@ -7,6 +7,6 @@
 
 - 🧑‍💻 I have experience in programming languages like Python, R, Excel, Stata and I'm learning SQL.
 
-- 👣 I have 8 years of experience in statistical/econometric modeling and 2 years of experience in machine learning. I was a monitor teacher of statistics/applied econometrics with R for the Graduate Program in Applied Economics at the Federal University of Juiz de Fora.
+- 👣 I have 8 years of experience in statistical/econometric modeling and 3 years of experience in machine learning. I was a monitor teacher of statistics/applied econometrics with R for the Graduate Program in Applied Economics at the Federal University of Juiz de Fora.
 
 - 🔭 I have been studying Data Science for 2 years, focusing a lot on the theory of machine learning algorithms and their application to solve economic problems. I have also been studying MLOps (FastAPI, Flask, PaaS, IaaS, Cloud, Docker, CI/CD).
